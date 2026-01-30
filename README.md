@@ -167,5 +167,5 @@ This project is developed for educational purposes and may be freely used or mod
 
 ---
 
-ng this repo that highlights *optimization + algorithms* without overselling.
+
 ```
